@@ -1,0 +1,16 @@
+PODS:
+  - RedZRouter (0.1.0)
+
+DEPENDENCIES:
+  - RedZRouter (from `../`)
+
+EXTERNAL SOURCES:
+  RedZRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RedZRouter: 8e2556640350c64af5001fb3c4ac9b50973adbaa
+
+PODFILE CHECKSUM: e2da654311aa9ba757c0995689460d14d1f5eb72
+
+COCOAPODS: 1.9.3

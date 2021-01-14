@@ -1,0 +1,6 @@
+framework module RedZRouter {
+  umbrella header "RedZRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}

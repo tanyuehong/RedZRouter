@@ -1,0 +1,22 @@
+{
+  "name": "RedZRouter",
+  "version": "0.1.0",
+  "summary": "A short description of RedZRouter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tanyuehong/RedZRouter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tanyuehong": "tanyuehong@zuoyebang.com"
+  },
+  "source": {
+    "git": "https://github.com/tanyuehong/RedZRouter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "RedZRouter/Classes/**/*"
+}
